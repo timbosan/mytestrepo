@@ -1,7 +1,0 @@
-hello world
-I'm baaaaaaaaack
-woooooo
-<<<<<<< HEAD
-boooooo
-=======
->>>>>>> 20bfb57d18da8cbbf9149f1f83a74f79cec2a0ba
